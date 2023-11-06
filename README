@@ -1,3 +1,0 @@
-Given a maze find solution of maze to traverse the maze and find path from start to given destination
-Maze is taken as numpy array and agent is trained using reinforcement learning (penaulty based system)
-Agent is made to traverse on maze many times and agent record it's learning in form of penaulty and reward for each cell.
